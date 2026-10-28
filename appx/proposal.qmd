@@ -3,3 +3,6 @@ title: "Proposal"
 ---
 
 hi hi hi  
+
+our project will include: 
+  - 
