@@ -10,11 +10,14 @@ Authors: Anna-Lies Voorham and Lillie Perez
 
 ## Project Description
 
-
+We will be researching how people, particularly young people, use social media as their main source of news.
 
 ## Research Questions
 
+Our main research questions are:
 
+- Are young people more likely to use social media as their main source of news?
+- Hace the rates of people using social media as their main source of news increased over time?
 
 ## Data Set 
 
@@ -22,8 +25,7 @@ Authors: Anna-Lies Voorham and Lillie Perez
 
 ## Communication Plan, 
 
-ie, primary communication channel (eg, Google Chat, Slack, Email), expected response time (eg, 24 hours during the week), meeting time (eg, “we will meet 7-8pm every Wednesday”)
-
+Our primary 
 
 
 ## Roles
