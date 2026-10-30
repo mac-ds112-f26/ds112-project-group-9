@@ -21,6 +21,24 @@ Our main research questions are:
 
 ## Data Set 
 
+```{r}
+library(tidyverse)
+
+#Where do people get their news
+mediatypes <- read.csv("Comp 112 Data - Sheet1.csv")
+head(mediatypes)
+
+#How often do people use social media to get their news (Pew Research Center)
+smrates <- read.csv("smrates - Sheet1.csv")
+head(smrates)
+
+
+#What % of people use social media to get their news by demographic (Pew Research Center)
+demrates <- read.csv("demrates - Sheet1.csv")
+head(demrates)
+
+```
+
 
 
 ## Communication Plan, 
