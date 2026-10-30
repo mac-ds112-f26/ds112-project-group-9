@@ -17,7 +17,7 @@ We will be researching how people, particularly young people, use social media a
 Our main research questions are:
 
 - Are young people more likely to use social media as their main source of news?
-- Hace the rates of people using social media as their main source of news increased over time?
+- Have the rates of people using social media as their main source of news increased over time?
 
 ## Data Set 
 
@@ -43,7 +43,7 @@ head(demrates)
 
 ## Communication Plan, 
 
-Our primary method of communication is in class time to communicate, but when the project ramps up, we plan on meeting outside of class to work on refining out data and finding relevant information. 
+Our primary method of communication is in class time to communicate, but when the project ramps up, we plan on meeting outside of class to work on refining out data and finding relevant information. When we need to communicate outside of class we will text and respond within 12 hours.
 
 
 ## Roles
