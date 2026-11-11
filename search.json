@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project Title",
+    "section": "",
+    "text": "Your report goes here.\n\nCode# a test code chunk",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Report</span>"
+    ]
+  },
+  {
+    "objectID": "eda/eda-member1.html",
+    "href": "eda/eda-member1.html",
+    "title": "Member 1 First Name & Last Name Initial",
+    "section": "",
+    "text": "Your exploratory data analysis of the team datasets go here.",
+    "crumbs": [
+      "EDA",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Member 1 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "eda/eda-member2.html",
+    "href": "eda/eda-member2.html",
+    "title": "Member 2 First Name & Last Name Initial",
+    "section": "",
+    "text": "Your exploratory data analysis of the team datasets go here.",
+    "crumbs": [
+      "EDA",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Member 2 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "eda/eda-member3.html",
+    "href": "eda/eda-member3.html",
+    "title": "Member 3 First Name & Last Name Initial",
+    "section": "",
+    "text": "Your exploratory data analysis of the team datasets go here.",
+    "crumbs": [
+      "EDA",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Member 3 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html",
+    "href": "appx/proposal.html",
+    "title": "Appendix A — Proposal",
+    "section": "",
+    "text": "Social Media as News\nAuthors: Anna-Lies Voorham and Lillie Perez",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#project-description",
+    "href": "appx/proposal.html#project-description",
+    "title": "Appendix A — Proposal",
+    "section": "Project Description",
+    "text": "Project Description\nWe will be researching how people, particularly young people, use social media as their main source of news. We want to examine whether young adults’ political knowledge is being affected by their primary source of political information. This matters because a growing number of people rely less on traditional news sources and instead turn to social media for news. Today, there are countless different ways to get political information. I want to see whether people who primarily use traditional news sources have more, less, or the same objective political knowledge as those whose primary news source is social media.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#research-questions",
+    "href": "appx/proposal.html#research-questions",
+    "title": "Appendix A — Proposal",
+    "section": "Research Questions",
+    "text": "Research Questions\nOur main research questions are:\n\nAre young people more likely to use social media as their main source of news?\nHave the rates of people using social media as their main source of news increased over time?",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#data-set",
+    "href": "appx/proposal.html#data-set",
+    "title": "Appendix A — Proposal",
+    "section": "Data Set",
+    "text": "Data Set\n\nCodelibrary(tidyverse)\n\n#Where do people get their news\nmediatypes &lt;- read.csv(\"Comp 112 Data - Sheet1.csv\")\nhead(mediatypes)\n\n  Year  TV News.websites...apps Social...video.networks Radio Print None\n1 2021 64%                  63%                     56%   26%   24%   4%\n2 2022 61%                  62%                     57%   26%   23%   5%\n3 2023 57%                  57%                     53%   24%   20%   6%\n4 2024 55%                  56%                     51%   23%   19%   6%\n5 2025 54%                  53%                     51%   22%   18%   6%\n6 2026 52%                  51%                     54%   21%   16%   6%\n\nCode#How often do people use social media to get their news (Pew Research Center)\nsmrates &lt;- read.csv(\"smrates - Sheet1.csv\")\nhead(smrates)\n\n  Year Often Sometimes Rarely Never\n1 2020    23        30     18    29\n2 2021    19        29     19    32\n3 2022    17        33     20    29\n4 2023    19        31     19    31\n5 2024    25        29     18    28\n6 2025    21        32     19    27\n\nCode#What % of people use social media to get their news by demographic (Pew Research Center)\ndemrates &lt;- read.csv(\"demrates - Sheet1.csv\")\nhead(demrates)\n\n           X Facebook YouTube Instagram TikTok X..Twitter. Reddit\n1        Men       33      41        21     15          15     12\n2      Women       47      28        25     24           6      6\n3 Ages 18-29       40      39        43     39          18     18\n4      30-49       49      38        28     25          11     12\n5      50-64       39      33        15     11          10      3\n6        65+       30      26         8      4           4      1",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#communication-plan",
+    "href": "appx/proposal.html#communication-plan",
+    "title": "Appendix A — Proposal",
+    "section": "Communication Plan,",
+    "text": "Communication Plan,\nOur primary method of communication is in class time to communicate, but when the project ramps up, we plan on meeting outside of class to work on refining out data and finding relevant information. When we need to communicate outside of class we will text and respond within 12 hours.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#roles",
+    "href": "appx/proposal.html#roles",
+    "title": "Appendix A — Proposal",
+    "section": "Roles",
+    "text": "Roles\nWe will trade of communication roles weekly so that we can share the burden.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#conflict-resolution",
+    "href": "appx/proposal.html#conflict-resolution",
+    "title": "Appendix A — Proposal",
+    "section": "Conflict Resolution",
+    "text": "Conflict Resolution\nWe will address issues to each first. If we are unable to resolve the issue ourselves we will raise the issue to the professor.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#implementation-plan",
+    "href": "appx/proposal.html#implementation-plan",
+    "title": "Appendix A — Proposal",
+    "section": "Implementation Plan",
+    "text": "Implementation Plan\n\nMeet weekly -Submit milestones on time\nCheck in daily in class",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/case-study.html",
+    "href": "appx/case-study.html",
+    "title": "Appendix B — Case Study",
+    "section": "",
+    "text": "Your case study go here.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Case Study</span>"
+    ]
+  },
+  {
+    "objectID": "wa/wa-member1.html",
+    "href": "wa/wa-member1.html",
+    "title": "Appendix C — Member 1 First Name & Last Name Initial",
+    "section": "",
+    "text": "Work area to try code",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Member 1 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "wa/wa-member2.html",
+    "href": "wa/wa-member2.html",
+    "title": "Appendix D — Member 2 First Name & Last Name Initial",
+    "section": "",
+    "text": "Work area to try code",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Member 2 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "wa/wa-member3.html",
+    "href": "wa/wa-member3.html",
+    "title": "Appendix E — Member 3 First Name & Last Name Initial",
+    "section": "",
+    "text": "Work area to try code",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Member 3 First Name & Last Name Initial</span>"
+    ]
+  }
+]
