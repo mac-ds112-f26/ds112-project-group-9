@@ -48,16 +48,16 @@ Our primary method of communication is in class time to communicate, but when th
 
 ## Roles
 
-In particular, determine (1) point of contact–the main person to email the instructor/preceptors, (2) technical lead–the person who will oversee the code base and website, (3) style lead–the person who will make sure the code is following the COMP/STAT 112/212: Code Styling Guide
+We will trade of communication roles weekly so that we can share the burden. 
 
 
 
 ## Conflict Resolution
-ie, if a team member misses a deadline, how will the team handle it? How will you make decisions if the team is split 50/50 on a something?
 
-
-
+We will address issues to each first. If we are unable to resolve the issue ourselves we will raise the issue to the professor.
 
 ## Implementation Plan
-
-ie, list of tasks with due date and roles–refer to the list of deliverables when building your list. The plan should be added as GitHub Issues within the project repository–see the callout box below for details.
+ 
+- Meet weekly
+-Submit milestones on time
+- Check in daily in class 
