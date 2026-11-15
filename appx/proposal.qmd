@@ -2,4 +2,62 @@
 title: "Proposal"
 ---
 
-Your proposal go here.
+## Social Media as News
+
+Authors: Anna-Lies Voorham and Lillie Perez
+
+
+
+## Project Description
+
+We will be researching how people, particularly young people, use social media as their main source of news. We want to examine whether young adults' political knowledge is being affected by their primary source of political information. This matters because a growing number of people rely less on traditional news sources and instead turn to social media for news. Today, there are countless different ways to get political information. I want to see whether people who primarily use traditional news sources have more, less, or the same objective political knowledge as those whose primary news source is social media. 
+
+## Research Questions
+
+Our main research questions are:
+
+- Are young people more likely to use social media as their main source of news?
+- Have the rates of people using social media as their main source of news increased over time?
+
+## Data Set 
+
+```{r}
+library(tidyverse)
+
+#Where do people get their news
+mediatypes <- read.csv("Comp 112 Data - Sheet1.csv")
+head(mediatypes)
+
+#How often do people use social media to get their news (Pew Research Center)
+smrates <- read.csv("smrates - Sheet1.csv")
+head(smrates)
+
+
+#What % of people use social media to get their news by demographic (Pew Research Center)
+demrates <- read.csv("demrates - Sheet1.csv")
+head(demrates)
+
+```
+
+
+
+## Communication Plan, 
+
+Our primary method of communication is in class time to communicate, but when the project ramps up, we plan on meeting outside of class to work on refining out data and finding relevant information. When we need to communicate outside of class we will text and respond within 12 hours.
+
+
+## Roles
+
+We will trade of communication roles weekly so that we can share the burden. 
+
+
+
+## Conflict Resolution
+
+We will address issues to each first. If we are unable to resolve the issue ourselves we will raise the issue to the professor.
+
+## Implementation Plan
+ 
+- Meet weekly
+-Submit milestones on time
+- Check in daily in class 
