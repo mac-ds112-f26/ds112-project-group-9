@@ -61,9 +61,8 @@ book:
 
     - part: "EDA"
       chapters:
-        - eda/eda-member1.qmd
-        - eda/eda-member2.qmd
-        - eda/eda-member3.qmd
+        - eda/Anna-Lies_V.qmd
+        - eda/Lillie_P.qmd
 
   appendices:
   - appx/proposal.qmd
