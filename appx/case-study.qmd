@@ -2,4 +2,9 @@
 title: "Case Study"
 ---
 
-Your case study go here.
+Case study: the physical traits that define men and women in literature. 
+
+Link: https://pudding.cool/2020/07/gendered-descriptions/ 
+
+Comments: There are small blocks of text, and it mostly consists of visuals to help the viewer scroll through an interactive site. 
+There are some interactive parts that help guide the viewer through choosing which words sound the most right for men and women. The visualizations aren't very traditional, but more “artsy” to help people understand and become interested in the data they have collected. There are visual quotes from books, and lots of fun facts about how literature describes men and women. For example, there is a full-body chart, and men and women are described more often in relation to where on the body. The only negative comment on the website is the slight excess of blank space, requiring the viewer to scroll more. 
