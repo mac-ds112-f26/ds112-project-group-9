@@ -3,6 +3,8 @@ title: "AnnaLies V"
 ---
 
 ```{r}
+library(tidyverse)
+#Loading in the datasets
 #Where do people get their news
 mediatypes <- read.csv("Comp 112 Data - Sheet1 copy.csv")
 head(mediatypes)
@@ -15,5 +17,18 @@ head(smrates)
 #What % of people use social media to get their news by demographic (Pew Research Center)
 demrates <- read.csv("demrates - Sheet1 copy.csv")
 head(demrates)
+```
+
+```{r}
+#Focusing on media types
+
+
+str(mediatypes)
+
+tidymtypes <- mediatypes %>%
+  select(Year, Social...video.networks)
+
+head(tidymtypes)
+  
 ```
 
