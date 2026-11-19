@@ -61,7 +61,7 @@ book:
 
     - part: "EDA"
       chapters:
-        - eda/Anna-Lies_V.qmd
+        - eda/eda-member3.qmd
         - eda/Lillie_P.qmd
 
   appendices:

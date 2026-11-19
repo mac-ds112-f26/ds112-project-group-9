@@ -1,5 +1,19 @@
 ---
-title: "Member 3 First Name & Last Name Initial"
+title: "AnnaLies V"
 ---
 
-Your exploratory data analysis of the team datasets go here.
+```{r}
+#Where do people get their news
+mediatypes <- read.csv("Comp 112 Data - Sheet1 copy.csv")
+head(mediatypes)
+
+#How often do people use social media to get their news (Pew Research Center)
+smrates <- read.csv("smrates - Sheet1 copy.csv")
+head(smrates)
+
+
+#What % of people use social media to get their news by demographic (Pew Research Center)
+demrates <- read.csv("demrates - Sheet1 copy.csv")
+head(demrates)
+```
+
