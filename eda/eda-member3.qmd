@@ -29,6 +29,7 @@ tidymtypes <- mediatypes %>%
   select(Year, Social...video.networks)
 
 head(tidymtypes)
+
   
 ```
-
+> Looking at this data, there is a peak around 2022 in using social media as a news sources. Since then rates have gone down. 
