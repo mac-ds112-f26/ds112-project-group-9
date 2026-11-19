@@ -17,3 +17,55 @@ demrates <- read.csv("demrates - Sheet1 copy.csv")
 head(demrates)
 ```
 
+```{r}
+
+library(tidyverse)
+
+demrates |>
+  summary(demrates)
+
+```
+::: {.callout-note title="Reflection"}
+
+From the summary, we can see that the Facebook has the highest overall median, meaning the most uses for political information. Serving as the overall platform for political information on social media. 
+
+:::
+
+
+```{r}
+
+demrates |>
+  pivot_longer(
+    cols = Facebook:Instagram,
+    names_to = "Platform",
+    values_to = "Percentage"
+  ) |>
+  ggplot(aes(x = Platform, y = Percentage)) +
+  geom_col()
+```
+
+::: {.callout-note title="Reflection"}
+
+This graph allows us to easily compare the how much people use certain platforms. From the graph, people tend to use Fackbook more commonly 
+
+:::
+
+
+```{r}
+
+mediatypes |>
+  pivot_longer(
+    cols = TV:None,
+    names_to = "News_Source",
+    values_to = "Percentage"
+  ) |>
+  ggplot(aes(x = Year, y = Percentage, color = News_Source)) +
+  geom_line() +
+  geom_point()
+
+```
+
+::: {.callout-note title="Reflection"}
+
+Not sure where Im going here... sorry Anna-Lies
+:::
